@@ -5,11 +5,11 @@
 Задача проекта. 
 Создать модель, которая будет предсказывать стоимость автомобиля по его характеристикам (признакам).
 
-submission.csv - загруженный на Kaggle с метрикой MAPE 12%. 
+[submission.csv](https://github.com/KuzovovSS/Skill/blob/module_6/Module_6/submission.csv) - загруженный на Kaggle с метрикой MAPE 12%. 
 
-APP6.ipynb – ноутбук для этого «сабмита». 
+[APP6.ipynb](https://github.com/KuzovovSS/Skill/blob/module_6/Module_6/APP6.ipynb) – ноутбук для этого «сабмита». 
 
-Choose_a_car_profitably2 (1) – ноутбук с кодом, показавшим худшую метрику, но со свежими данными, которые были получены парсингом. 
+[ Choose_a_car_profitably2(1)](https://github.com/KuzovovSS/Skill/blob/module_6/Module_6/Choose_a_car_profitably2%20(1).ipynb) – ноутбук с кодом, показавшим худшую метрику, но со свежими данными, которые были получены парсингом. 
 
 В результате удалось опробовать основные модели машинного обучения:  
 
